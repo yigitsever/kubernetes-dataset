@@ -3,6 +3,8 @@
 This repository hosts the flow files, generated from `.pcap` files using [this fork of the CICFlowMeter](https://github.com/GintsEngelen/CICFlowMeter) tool, as part of the paper [A Kubernetes dataset for misuse detection](https://www.itu.int/pub/S-JNL-VOL4.ISSUE2-2023-A26).
 Please refer to the paper for the dataset creation steps and the details on the attack scenarios.
 
+An updated version of this dataset is available at [Kaggle](https://www.kaggle.com/datasets/yigitsever/misuse-detection-in-containers-dataset/).
+
 # Data Overview
 
 | Scenario                  | Label |
